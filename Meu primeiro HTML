@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>DESAFIO</title>
+    </head>
+     <body>
+        <h1 id="inicio"><strong><i>Contedos Aprendidos até aqui<sup>*</sup></i></strong></h1>
+        <hr />
+        <h2>Indice</h2>
+        <ul>
+            <li><a href="#História">História da web</a></li>
+            <li><a href="#Clients">O que são Clients?</a></li>
+            <li><a href="#Severs">O que são Severs?</a></li>
+            <li><a href="#Programação">Linguagem de Programação</a></li>
+            <li><a href="#Prática">Introdução ao HTML na prática</a></li>
+            <li><a href="#Referências">Referências</a></li>
+        
+        </ul>
+        <h2 id="História">História da web</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+
+        <p>Em 1992, o cientista Tim Berners-Lee criou a World Wide Web – ou esse “www” que se digita antes do nome de qualquer site. A rede nasceu na Organização Europeia para a Investigação Nuclear, que propôs a criação dos hipertextos para permitir que várias pessoas trabalhassem juntas acessando os mesmos documentos</p>
+        <p>Também nos anos 90, a empresa norte-americana Netscape criou um protocolo HTTPS (HyperText Transfer Protocol Secure), que garante o envio de dados criptografados pela web.</p>
+        
+        <h2 id="Clients">O que são <u>Clients</u>?</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+
+        <p> Client é um termo usado na computação que apresenta uma entidade que consome serviços de um outra entidade servidora, através do uso de uma rede de computadores.</p>
+        <p> É o lado que consome a informação, através de notbooks, celulares, entre outros.</p>
+        <p><mark>As linguagens client-side são linguagens onde apenas o seu NAVEGADOR vai entender.</mark> Quem vai processar essa linguagem não é o servidor, mas o seu browser.</p>
+        
+        
+
+        <h2 id="Severs">O que são <u>Severs</u>?</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>
+            <mark> As linguagens Sever-side  são linguagens que o servidor entende.</mark> Isso quer dizer que vai escrever um código onde o servidor vai processá-lo e então vai mandar para o seu navegador a resposta.
+        </p>
+       
+        <h2 id="Programação">Linguagem de Programação</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
+            <h3>Linguagens usadas em servidores(clients-side)</h3>
+            <ol>
+                <li>PHP</li>
+                <li>C#</li>
+                <li>JavaScript</li>
+                <li>Java</li>
+                <li>Ruby</li>
+            </ol>
+            <h3>Linguagens usadas em client-side(aplicação web):</h3>
+            <ol>
+                <li>JavaScript</li>
+            </ol>
+        </p>
+        <h2 id="Prática">Introdução ao HTML na prática</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>
+            Em sua essência, HTML é uma linguagem bastante simples composta de elementos, que podem ser aplicados a pedaços de texto para dar-lhes significado diferente em um documento (é um parágrafo? é uma lista de seleção? é parte de uma tabela?), estrutura um documento em seções lógicas (Possui um cabeçalho? Três colunas de conteúdo? Um menu de navegação?) e incorpora conteúdo como imagens e vídeos em uma página.
+        </p>
+
+        <h2 id="Referências">Referências</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <ul>
+            <li>https://tableless.github.io/iniciantes/manual/obasico/o-que-front-back.html</li>
+            <li>https://www.gigasystems.com.br/artigo/60/client-side-e-server-side</li>
+            <li>https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML</li>
+            <li>https://rockcontent.com/br/blog/linguagem-de-programacao/</li>
+            <li>https://www.techtudo.com.br/noticias/2013/04/internet-completa-44-anos-relembre-historia-da-web.ghtml</li>
+        </ul>
+
+    </body>
+</html>
